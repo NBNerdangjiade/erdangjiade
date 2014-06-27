@@ -1,4 +1,13 @@
 erdangjiade
 ===========
+<?php 
 
-web
+echo " this is a test !";
+echo "this ia my firstday in caiwangzi compny !" ;
+
+
+
+
+
+?>
+
